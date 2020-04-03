@@ -25,6 +25,7 @@ atualizar o pip Python;
 
 
 se o Kivy estiver instalado pelo Anaconda (método mais fácil), você apenas precisa:
+
 	1. abrir o terminal do Anaconda
 	
 	2. entrar na pasta que está o main.py que roda o app
